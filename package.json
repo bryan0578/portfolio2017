@@ -1,0 +1,48 @@
+{
+  "name": "portfolio2017",
+  "version": "1.0.0",
+  "description": "Web portfolio to list all my best work",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryan0578/portfolio2017.git"
+  },
+  "keywords": [
+    "Front",
+    "End",
+    "Back",
+    "End",
+    "Development",
+    "Design",
+    "Illustrator",
+    "Photoshop",
+    "HTML",
+    "CSS",
+    "Java",
+    "Script",
+    "jQuery",
+    "AngularJS",
+    "PHP",
+    "Python",
+    "Object",
+    "Oriented",
+    "Programming"
+  ],
+  "author": "Bryan Cash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryan0578/portfolio2017/issues"
+  },
+  "homepage": "https://github.com/bryan0578/portfolio2017#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "grunt": "^1.0.1",
+    "grunt-responsive-images": "^1.10.1",
+    "gulp": "^3.9.1",
+    "gulp-cache": "^0.4.6",
+    "gulp-imagemin": "^3.1.1"
+  }
+}
